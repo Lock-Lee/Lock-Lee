@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Lock-Lee/Lock-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Thirawut Khanphan] - a passionate [Your Profession/Role] from [Your Location].
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 🔭 I’m currently working on [Project]
+- 🌱 I’m currently learning [Technology or Skill]
+- 💬 Ask me about [Your Expertise]
+- 📫 How to reach me: [Your Email]
+- ⚡ Fun fact: [Something Interesting About You]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+
+## 🛠️ Technologies and Tools
+
+![Your Tools](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
+![Your Tools](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
+![Your Tools](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://linkedin.com/in/your-linkedin)
+
