@@ -1,19 +1,19 @@
 # Hi there 👋
 
-I'm [Thirawut Khanphan] - a passionate [Your Profession/Role] from [Your Location].
+I'm Thirawut Khanphan - a passionate Full Stack Developer from Bangkok/Thailand
 
 ## 👨‍💻 About Me
 - 🔭 I’m currently working on [Project]
 - 🌱 I’m currently learning [Technology or Skill]
 - 💬 Ask me about [Your Expertise]
-- 📫 How to reach me: [Your Email]
+- 📫 How to reach me: Locklee.on@gmail.com
 - ⚡ Fun fact: [Something Interesting About You]
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=lock-lee&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lock-lee&layout=compact&theme=radical)
 
 ## 🛠️ Technologies and Tools
 
@@ -23,5 +23,5 @@ I'm [Thirawut Khanphan] - a passionate [Your Profession/Role] from [Your Locatio
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://linkedin.com/in/your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://linkedin.com/in/thirawut.kh)
 
