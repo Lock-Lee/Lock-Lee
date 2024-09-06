@@ -289,7 +289,7 @@ pie
 "Cats" : 85.9
 "Rats" : 15
 ```
-```
+```mermaid
 erDiagram
     USERS ||--o{ LICENSES : "1-to-many"
     LICENSES ||--o{ DEVICES : "1-to-many"
