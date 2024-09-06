@@ -289,7 +289,51 @@ pie
 "Cats" : 85.9
 "Rats" : 15
 ```
+```
+erDiagram
+    USERS ||--o{ LICENSES : "1-to-many"
+    LICENSES ||--o{ DEVICES : "1-to-many"
+    LICENSES ||--o{ LICENSE_LOGS : "1-to-many"
+    USERS ||--o{ PAYMENTS : "1-to-many"
+    LICENSES ||--o{ PAYMENTS : "1-to-many"
 
+    USERS {
+        int id PK
+        string name
+        string email
+    }
+
+    LICENSES {
+        int id PK
+        string license_key
+        date issued_date
+        date expiration_date
+        int user_id FK
+    }
+
+    DEVICES {
+        int id PK
+        string device_name
+        string device_type
+        int license_id FK
+    }
+
+    LICENSE_LOGS {
+        int id PK
+        date log_date
+        string activity
+        int license_id FK
+    }
+
+    PAYMENTS {
+        int id PK
+        float amount
+        date payment_date
+        int user_id FK
+        int license_id FK
+    }
+
+```
 ### Git graph [experimental - <a href="https://mermaid.live/edit#pako:eNqNkMFugzAMhl8F-VyVAR1tOW_aA-zKxSSGRCMJCk6lCvHuNZPKZdM0n-zf3_8r8QIqaIIGMqnB8kfEybQ--y4VnLP8-9RF9Mpkmm40hmlnDKmvkPiH_kfS7nFo_VN0FAf6XwocQGgxa_nGsm1bYEOOWmik1dRjGrmF1q-Cpkkj07u2HCI0PY4zHQATh8-7V9BwTPSE3iwOEd1OjQE1iWkBvk_bzQY7s0Sq4Hs7bHqKo8iGeZqbPN_WR7mpSd1RHpvPVhuMbG7XOq_L-oJlRfW5wteq0qorrpe-PBW9Pr8UJcK6rg-BLYPQ">live editor</a>]
 
 ### Bar chart (using gantt chart) [<a href="https://mermaid.js.org/syntax/gantt.html">docs</a> - <a href="https://mermaid.live/edit#pako:eNptkU1vhCAQhv8KIenNugiI4rkf6bmXpvEyFVxJFDYyNt1u9r8X63Z7WQ9m5pknLzieaBeMpQ3dg0dsPUkPOhwteXZIXmJcbCT3xMAxkuh8Z8kIEclyMIB209fqKcwTICFvG4IvFy_oLrZ-g9F26ILfQgvNFN94VaRXQ1iWqpumZBcu1J8p1E1TXDx59eQNr5LyEqjJn6hv5QnGNlxevZJmdLLpy5xJSzut45biYCfb0iaVxvawjNjS1p-TCguG16PvaIPzYjO67e3BwX6GiTY9jPFKH43DMF_hGMDY1J4oHg-_f8hFTJFd8L3br3yZx4QHxENsdrt1nO8dDstH3oVpF50ZYMbhU6ud4qoGLqyqBJRCmO6j0HXPZdGbihUc6Pmc0QP49xD-b5X69ZQv2gjO81IwzWqhC1lKrjJ6pA3nVS7SMiVjrKirWlYp5fs3osgrWeo00lorLWvOzz8JVbXm">live editor</a>]
