@@ -74,15 +74,16 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postman,docker,vercel,aws,github,gitlab,vscode,figma" />
+  <img src="https://img.shields.io/badge/Husky-%23DD0031?style=for-the-badge&logo=git&logoColor=white" alt="Husky badge" />
 </p>
 
 - Tools: **Postman**, **Docker**, **Vercel**, **AWS**
-- DevOps: **GitHub Actions**, **GitLab CI/CD**
+- DevOps: **GitHub Actions**, **GitLab CI/CD**, **Husky**
 - IDE & Design: **VSCode**, **Figma**
 
 ---
 
-## 🎯 Projects
+<!-- ## 🎯 Projects
 
 ### 🔗 [Modern URL Shortener](https://github.com/thirawut-k/url-shortener)
 
@@ -109,7 +110,7 @@
 - Combines **Vike**, **Elysia**, **Tailwind**, and **Vite**
 - Ships to **Vercel** or runs locally with Docker
 
----
+--- -->
 
 ## 🔭 What’s Next?
 
