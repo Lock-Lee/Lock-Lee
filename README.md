@@ -5,12 +5,12 @@
   </a>
 </h1>
 
-<h3 align="center"> Full-stack Developer 👨‍💻 | Software Engineer ⚙️ | Tech Explorer 🌐 </h3>
+<h3 align="center"> Full-stack Developer 👨‍💻 | Fontend Developer ⚙️ </h3>
 
 <p align="center">
   <a href="#-about-me">About Me</a> •
   <a href="#-tech-stack">Tech Stack</a> •
-  <a href="#-projects">Projects</a> •
+  <!-- <a href="#-projects">Projects</a> • -->
   <a href="#-whats-next">What’s Next?</a> •
   <a href="#-contact">Contact</a>
 </p>
@@ -75,11 +75,10 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postman,docker,vercel,aws,github,gitlab,vscode,figma" />
-  <img src="https://img.shields.io/badge/Husky-%23DD0031?style=for-the-badge&logo=git&logoColor=white" alt="Husky badge" />
 </p>
 
 - Tools: **Postman**, **Docker**, **Vercel**, **AWS**
-- DevOps: **GitHub Actions**, **GitLab CI/CD**, **Husky**
+- DevOps: **GitHub Actions**, **GitLab CI/CD**
 - IDE & Design: **VSCode**, **Figma**
 
 ---
