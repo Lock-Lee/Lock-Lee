@@ -8,10 +8,11 @@
 <h3 align="center"> Full-stack Developer 👨‍💻 | Software Engineer ⚙️ | Tech Explorer 🌐 </h3>
 
 <p align="center">
-  <a href="#about">About Me</a> •
-  <a href="#tech-stack">Tech Stack</a> •
-  <a href="#projects">Projects</a> •
-  <a href="#contact">Contact</a>
+  <a href="#-about-me">About Me</a> •
+  <a href="#-tech-stack">Tech Stack</a> •
+  <a href="#-projects">Projects</a> •
+  <a href="#-whats-next">What’s Next?</a> •
+  <a href="#-contact">Contact</a>
 </p>
 
 ---
@@ -44,7 +45,7 @@
 
 - Frameworks: **NestJS**, **Express.js**
 - Runtime: **Node.js**
-- API: RESTful, GraphQL
+- API: **RESTful**, **GraphQL**
 
 ---
 
@@ -83,7 +84,7 @@
 
 ---
 
-<!-- ## 🎯 Projects
+## 🎯 Projects
 
 ### 🔗 [Modern URL Shortener](https://github.com/thirawut-k/url-shortener)
 
@@ -110,7 +111,7 @@
 - Combines **Vike**, **Elysia**, **Tailwind**, and **Vite**
 - Ships to **Vercel** or runs locally with Docker
 
---- -->
+---
 
 ## 🔭 What’s Next?
 
