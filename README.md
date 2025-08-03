@@ -68,7 +68,7 @@
 ### 🧠 Backend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nestjs,express,nodejs,hono,bun,elysia" />
+  <img src="https://skillicons.dev/icons?i=nestjs,express,nodejs,bun,elysia" />
 </p>
 
 - Frameworks: **NestJS**, **Express.js**
