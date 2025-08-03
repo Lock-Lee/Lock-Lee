@@ -92,9 +92,9 @@ A starter/starter‑adjacent kit combining **Vike**, **Elysia.js**, and **Tailwi
 | Email     | _feel free to DM via LinkedIn_ or via **issues on a repo**   |
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lock-Lee/Lock-Lee/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lock-Lee/Lock-Lee/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Lock-Lee/Lock-Lee/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lock-Lee/Lock-Lee/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lock-Lee/Lock-Lee/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Lock-Lee/Lock-Lee/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ---
