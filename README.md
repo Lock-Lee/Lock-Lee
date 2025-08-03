@@ -1,7 +1,10 @@
-<!-- Garbage banner-spacing to center social on profile -->
+<!-- Banner -->
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=22A699&size=35&center=true&vCenter=true&random=false&width=435&lines=Hi+there+!+%F0%9F%91%8B+;+I'm+Thirawut+Khaphan!" alt="Thirawut Khaphan" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=22A699&size=35&center=true&vCenter=true&random=false&width=435&lines=Hi+there+!+%F0%9F%91%8B+;+I'm+Thirawut+Khaphan!" alt="Thirawut Khaphan" />
+  </a>
 </h1>
+
 <h3 align="center"> Full-stack Developer 👨‍💻 | Software Engineer ⚙️ | Tech Explorer 🌐 </h3>
 
 <p align="center">
@@ -13,62 +16,127 @@
 
 ---
 
-# 👋 Hi, I’m Thirawut Khaphan
+## 👨‍💻 About Me
 
-> A passionate **Full‑stack Developer** with **3 years** of experience in building web and mobile apps. I love creating clean, scalable code and seamless user experiences using modern tools like **React**, **Bun**, and **TypeScript**.
-
----
-
-## 🚀 Current Focus
-
-- Building modern apps with **Next.js**, **React Native**, and **Tailwind CSS**
-- Developing ultra-fast APIs using **ElysiaJS** and **Bun**
-- Exploring **type-safe full-stack workflows** (Prisma, TypeScript, runtime validation)
-- Experimenting with SSR/SPA hybrid architectures and CI/CD automation
+> I'm **Thirawut Khaphan**, a passionate full-stack developer with over **3 years** of experience in building modern web and mobile applications. I love solving problems with clean code, efficient architecture, and pixel-perfect interfaces.
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Layer               | Tools                                                  |
-| ------------------- | ------------------------------------------------------ |
-| **Frontend**        | React, Next.js, Vite, React Native, Tailwind CSS       |
-| **Backend**         | ElysiaJS, Hono, Node.js, Bun, Prisma, MySQL/PostgreSQL |
-| **Infra & DevOps**  | Docker, Vercel, GitHub Actions, Google Cloud           |
-| **Auth & Workflow** | Clerk, Better Auth, ESLint, Husky, Commitizen, Dotenvx |
+### 🧩 Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,js,ts,html,css,tailwind,bootstrap,materialui" />
+</p>
+
+- Frameworks: **Next.js**, **React**
+- UI Libraries: **Tailwind CSS**, **Bootstrap**, **Material UI**, **Ant Design**
+- Languages: **JavaScript**, **TypeScript**, **HTML/CSS**
 
 ---
 
-## 📌 Why I Build These?
+### 🧠 Backend
 
-- To explore **end-to-end TypeScript safety**
-- To experiment with **modern SSR frameworks** like Vike & Elysia
-- To keep improving on **clean code, reusability, and infrastructure as code**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nestjs,express,nodejs" />
+</p>
+
+- Frameworks: **NestJS**, **Express.js**
+- Runtime: **Node.js**
+- API: RESTful, GraphQL
+
+---
+
+### 🗄️ Database
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=prisma,postgres,mysql" />
+</p>
+
+- ORM: **Prisma**
+- Databases: **PostgreSQL**, **MySQL**
+
+---
+
+### 📱 Mobile
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react" />
+</p>
+
+- Frameworks: **Flutter**, **React Native**
+- Languages: **Dart**, **TypeScript**
+
+---
+
+### ⚙️ Tools & DevOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postman,docker,vercel,aws,github,gitlab,vscode,figma" />
+</p>
+
+- Tools: **Postman**, **Docker**, **Vercel**, **AWS**
+- DevOps: **GitHub Actions**, **GitLab CI/CD**
+- IDE & Design: **VSCode**, **Figma**
+
+---
+
+## 🎯 Projects
+
+### 🔗 [Modern URL Shortener](https://github.com/thirawut-k/url-shortener)
+
+> Built with **Next.js**, **Prisma**, **PlanetScale**, and **Tailwind CSS**
+
+- Branded short links, analytics, and QR generation
+- Self-hostable with CI/CD workflows and type-safety
+
+---
+
+### 📊 [SQL Testing App](https://github.com/thirawut-k/sql-testing-app)
+
+> A SQL playground built using **Next.js**, **ElysiaJS**, and **Prisma**
+
+- Designed for database testing, education, and TDD workflows
+- Dockerized and easily deployable
+
+---
+
+### ⚡ [Vike + Elysia Starter](https://github.com/thirawut-k/vike-elysia-starter)
+
+> A starter template for full-stack SSR development
+
+- Combines **Vike**, **Elysia**, **Tailwind**, and **Vite**
+- Ships to **Vercel** or runs locally with Docker
 
 ---
 
 ## 🔭 What’s Next?
 
-- Contributing to **open source tools** in Bun and Elysia ecosystems
-- Developing **reusable npm packages** and starter templates
-- Building a **template generator CLI** for full-stack apps
+- Launching new open-source tools and templates
+- Contributing to **Elysia**, **Bun**, and **Vike** ecosystems
+- Creating reusable **npm packages** for backend/frontend scaffolding
 
 ---
 
-## 💬 Get in Touch
+## 📬 Contact
 
-| Platform | Contact                                                             |
+| Platform | Link                                                                |
 | -------- | ------------------------------------------------------------------- |
 | LinkedIn | [in/thirawut-khaphan](https://www.linkedin.com/in/thirawut-khaphan) |
 | GitHub   | [@thirawut-k](https://github.com/thirawut-k)                        |
-| Email    | _Open to collaboration – feel free to reach out via LinkedIn DM_    |
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lock-Lee/Lock-Lee/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lock-Lee/Lock-Lee/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Lock-Lee/Lock-Lee/output/github-contribution-grid-snake.svg" />
-</picture>
+| Email    | _Feel free to reach out via LinkedIn or GitHub issues_              |
 
 ---
 
-_Made with ❤️ and Bun + JavaScript_
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lock-Lee/Lock-Lee/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lock-Lee/Lock-Lee/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Lock-Lee/Lock-Lee/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
+_Made with ❤️ by Thirawut using Bun & JavaScript_
