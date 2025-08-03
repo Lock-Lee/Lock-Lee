@@ -63,11 +63,11 @@
 ### 📱 Mobile
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react" />
+  <img src="https://skillicons.dev/icons?i=react" />
 </p>
 
-- Frameworks: **Flutter**, **React Native**
-- Languages: **Dart**, **TypeScript**
+- Frameworks: **React Native**
+- Languages: **TypeScript**
 
 ---
 
@@ -84,7 +84,7 @@
 
 ---
 
-## 🎯 Projects
+<!-- ## 🎯 Projects
 
 ### 🔗 [Modern URL Shortener](https://github.com/thirawut-k/url-shortener)
 
@@ -111,7 +111,7 @@
 - Combines **Vike**, **Elysia**, **Tailwind**, and **Vite**
 - Ships to **Vercel** or runs locally with Docker
 
----
+--- -->
 
 ## 🔭 What’s Next?
 
