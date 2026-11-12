@@ -1,9 +1,137 @@
 <!-- Banner -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=22A699&size=35&center=true&vCenter=true&random=false&width=435&lines=Hi+there+!+%F0%9F%91%8B+;+I'm+Thirawut+Khanphan!" alt="Thirawut Khaphan" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=22A699&size=35&center=true&vCenter=true&random=false&width=435&lines=Hi+there+!+%F0%9F%91%8B+;+I'm+Thirawut+Khanpan!" alt="Thirawut Khanpan" />
   </a>
 </h1>
+
+<h3 align="center"> Full-stack Developer 👨‍💻 | Frontend Developer ⚙️ </h3>
+
+<p align="center">
+  <a href="#-about-me">About Me</a> •
+  <a href="#-tech-stack">Tech Stack</a> •
+  <a href="#-experience">Experience</a> •
+  <a href="#-whats-next">What’s Next?</a> •
+  <a href="#-contact">Contact</a>
+</p>
+
+---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lock-Lee/Lock-Lee/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lock-Lee/Lock-Lee/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Lock-Lee/Lock-Lee/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+## 👨‍💻 About Me
+
+> I'm **Thirawut Khanpan**, a full-stack developer based in Bangkok with **5 years** of experience building modern web and mobile applications. I specialize in **Next.js** and **React**, and I love solving problems with clean code, efficient architecture, and pixel-perfect interfaces.
+>
+> 💼 Currently: **Advance Software Developer** at **R Systems**, working on a **KBTG** project
+
+---
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,py,ts,js,react,mysql" alt="Languages and frameworks" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,aws,github,nodejs,graphql,postman" alt="Tools" />
+</div>
+
+## 🛠️ Tech Stack
+
+### 🧩 Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,js,ts,html,css,tailwind,bootstrap,materialui" />
+</p>
+
+- Frameworks: **Next.js**, **React**
+- UI Libraries: **Tailwind CSS**, **Bootstrap**, **Material UI**, **Ant Design**
+- Languages: **JavaScript**, **TypeScript**, **HTML/CSS**
+
+---
+
+### 🧠 Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nestjs,express,nodejs" />
+</p>
+
+- Frameworks: **NestJS**, **Express.js**
+- Runtime: **Node.js**
+- API: **RESTful**, **GraphQL**
+
+---
+
+### 🗄️ Database
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=prisma,postgres,mysql" />
+</p>
+
+- ORM: **Prisma**
+- Databases: **PostgreSQL**, **MySQL**
+
+---
+
+### 📱 Mobile
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react" />
+</p>
+
+- Frameworks: **React Native**
+- Languages: **TypeScript**
+
+---
+
+### ⚙️ Tools & DevOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postman,docker,vercel,aws,github,gitlab,vscode,figma" />
+</p>
+
+- Tools: **Postman**, **Docker**, **Vercel**, **AWS**
+- DevOps: **GitHub Actions**, **GitLab CI/CD**
+- IDE & Design: **VSCode**, **Figma**
+
+---
+
+## 💼 Experience
+
+| Period | Company | Role |
+| --- | --- | --- |
+| May 2026 – Present | R Systems Consulting Services (client: KBTG) | Advance Software Developer |
+| Jul 2025 – Apr 2026 | Perfect Computer Solutions | Full Stack Developer |
+| Jan 2025 – Jun 2025 | Robolingo / ZWIZ.AI | Full Stack Developer |
+| Nov 2023 – Dec 2024 | Intelligence System Corporation (Insysc) | Full Stack Developer |
+| Sep 2021 – Oct 2023 | Revel Soft | Full Stack Developer |
+
+🎓 **B.Eng. Computer Engineering**, Rajamangala University of Technology Isan
+
+---
+
+## 🔭 What’s Next?
+
+- Launching new open-source tools and templates
+- Contributing to **Elysia**, **Bun**, and **Vike** ecosystems
+- Creating reusable **npm packages** for backend/frontend scaffolding
+
+---
+
+## 📬 Contact
+
+| Platform | Link |
+| -------- | ------------------------------------------------------------------- |
+| LinkedIn | [in/thirawut-khaphan](https://www.linkedin.com/in/thirawut-khaphan) |
+| GitHub   | [@Lock-Lee](https://github.com/Lock-Lee) |
+| Email    | _Feel free to reach out via LinkedIn or GitHub issues_ |
 
 <h3 align="center"> Full-stack Developer 👨‍💻 | Fontend Developer ⚙️ </h3>
 
